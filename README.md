@@ -1,10 +1,10 @@
-### Hi there, I'm Roshni👋
+# Hi there, I'm Roshni👋
 
 - 🌱 I’m currently learning web development..
 - 👯 I’m looking to collaborate with passionate programmers...
 - ⚡ Fun fact: Github is amazing :) 
 
-## SKILLS
+### SKILLS
 LANGUAGES AND TOOLS:
 <br>
 <p align="left">
