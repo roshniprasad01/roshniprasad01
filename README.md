@@ -1,11 +1,11 @@
-### Hi there 👋...I'm Roshni
+### Hi there, I'm Roshni👋
 
-- 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning web development..
+- 👯 I’m looking to collaborate with passionate programmers...
+- ⚡ Fun fact: Github is amazing :) 
 
 ## SKILLS
-PROGRAMMING LANGUAGES
+LANGUAGES AND TOOLS:
 <br>
 <p align="left">
   <img src="https://www.pinclipart.com/picdir/big/539-5392404_transparent-c-language-logo-png-clipart.png" width="5%" height="5%" title"C programming"> 
