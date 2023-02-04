@@ -7,6 +7,9 @@
 ## SKILLS
 PROGRAMMING LANGUAGES
 <br>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=ayAY9cZT&id=342C23C076C13DABFCE8117C5D44732B68E33D8B&thid=OIP.ayAY9cZTL2wpgG7wb_sVjQHaEM&mediaurl=https%3a%2f%2f1000marcas.net%2fwp-content%2fuploads%2f2021%2f02%2fCSS-Logo.png&exph=2176&expw=3840&q=css+logo+transparent+background&simid=608010276841226096&FORM=IRPRST&ck=03625D1AF46F914DE8699284E8C4C19C&selectedIndex=2" alt="css">
+<p align="left">
+  <img src="https://th.bing.com/th/id/OIP.ayAY9cZTL2wpgG7wb_sVjQHaEM?w=297&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="350" title="css">
+</p>
+![image](https://user-images.githubusercontent.com/84218269/216775716-30114bd3-7218-4e61-9e0e-33d8790c6c99.png)
 
 
