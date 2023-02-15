@@ -1,6 +1,6 @@
 ## Hi there, I'm Roshni👋
 
-- 🌱 I’m currently learning web development,docker..
+- 🌱 I’m currently learning web development,react..
 - 👯 I’m looking to collaborate with passionate programmers...
 - ⚡ Fun fact: Github is amazing :) 
 <br>
